@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Chinta Javali 👋
 
-<!--
-**chintajavali01/chintajavali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 B.Tech Student
+- 💻 Learning Python
+- 🤖 Interested in AI & Machine Learning
+- 🚀 Building Real-World Projects
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- AI & Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- FAQ Chatbot
+- Language Translator
+- Python Programs
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/javali-chinta
+- GitHub: https://github.com/chintajavali01
+
+⭐ Thanks for visiting my profile!
